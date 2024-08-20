@@ -1,0 +1,4 @@
+Google Maps API key from:
+    project: TravelAdvisor
+    ID: first-react-api-proj
+AIzaSyAes9oNbSwFhEpFdJbjg587DxBUQgjEGZY
